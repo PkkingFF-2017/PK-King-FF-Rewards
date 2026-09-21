@@ -1,6 +1,0 @@
-{
-  "name": "PK King FF Rewards",
-  "description": "Official PK King FF Rewards app where players can earn coins and redeem Google Play codes, UPI cash, and Free Fire rewards securely.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
