@@ -1,0 +1,24 @@
+{
+  "name": "PK King FF Rewards",
+  "short_name": "PK King FF",
+  "start_url": "https://ais-pre-k643fi7tyalagug5qg5u4v-438394620124.asia-southeast1.run.app/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#f59e0b",
+  "description": "Official PK King FF Rewards app where players can earn coins and redeem Google Play codes, UPI cash, and Free Fire rewards securely.",
+  "developer": {
+    "name": "PK King FF",
+    "email": "asharphibharati@gmail.com",
+    "url": "https://ais-pre-k643fi7tyalagug5qg5u4v-438394620124.asia-southeast1.run.app/"
+  },
+  "publisher": "PK King FF",
+  "support_email": "asharphibharati@gmail.com",
+  "id": "https://ais-pre-k643fi7tyalagug5qg5u4v-438394620124.asia-southeast1.run.app/",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
